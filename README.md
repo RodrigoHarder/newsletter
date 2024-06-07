@@ -23,10 +23,6 @@ Desenvolvimento do projeto Newsletter da Alura no curso de [Tailwind CSS: estil
 - Utilização de bordas e sombras pseudoclasses e responsividade com tailwind;
 - Criar animações com tailwind elaborando alguma spersonalizações e utilizando as pré-fabricadas;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/newsletter/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
